@@ -1,7 +1,9 @@
 package com.example.testplugin;
 
+
+
 /**
- * Created by lxy on 16-5-30.
+ * class with the same name as the class in plugin
  */
 public class TestUtils__ {
     public String test() {
